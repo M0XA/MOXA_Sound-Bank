@@ -1,7 +1,9 @@
 {
 	"_base": "https://raw.githubusercontent.com/M0XA/MOXA_Sound-Bank/refs/heads/main/",
 	"bass_soul": "Sound/Bass/bass_solid_soul.mp3",
+	"bell_
 	"glass": "Sound/Noise/alien_glass.mp3",
 	"wave_space": "Sound/Noise/wave_space.mp3",
-	"drift_swell": "Sound/Noise/drift_swell.mp3"
+	"drift_swell": "Sound/Noise/drift_swell.mp3",
+	"mallet_ice": "Sound/Bell/mallet_ice.mp3"
 }
