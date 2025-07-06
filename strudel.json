@@ -1,6 +1,8 @@
 {
 	"_base": "https://raw.githubusercontent.com/M0XA/MOXA_Sound-Bank/main/",
 	"bass_soul": "Sound/Bass/bass_solid_soul.mp3",
+	"bass_soul2": "Sound/Bass/bass_solid_soul2.mp3",
+	"bass_boxy_thin": "Sound/Bass/bass_boxy_synth_thin.mp3",
 	"bell_delicate": "Sound/Bell/bell_delicate.mp3",
 	"bell_fairy": "Sound/Bell/bell_fairy.mp3",
 	"bell_charm": "Sound/Bell/bell_charm.mp3",
