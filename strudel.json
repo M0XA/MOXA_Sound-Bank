@@ -20,5 +20,11 @@
 	"ABYSS_opn": "Sound/sample/ABYSS_op.mp3",
 	"ABYSS_brg": "Sound/sample/ABYSS_brg.mp3",
 	"ABYSS_lop": "Sound/sample/ABYSS_lop.mp3",
-	"ABYSS_stp": "Sound/sample/ABYSS_stp.mp3"
+	"ABYSS_stp": "Sound/sample/ABYSS_stp.mp3",
+	"FX_water": "Sound/FX/FX_water.wav",
+	"FX_drip_1": "Sound/FX/FX_drip_1.wav",
+	"FX_drip_3": "Sound/FX/FX_drip_3.wav",
+	"FX_drip_4": "Sound/FX/FX_drip_4.wav",
+	"FX_robot": "Sound/FX/FX_robot.wav"
+
 }
